@@ -1,5 +1,5 @@
-#include </usr/src/linux-headers-5.0.0-29/include/linux/init.h>
-#include </usr/src/linux-headers-5.0.0-29/include/linux/module.h>
+#include </usr/include/init.h>
+#include </usr/include/module.h>
 MODULE_LICENSE("Dual BSD/GPL");
 
 static int hello_init(void){
