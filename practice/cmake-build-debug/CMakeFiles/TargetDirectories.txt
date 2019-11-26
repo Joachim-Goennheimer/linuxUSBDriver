@@ -1,0 +1,3 @@
+/Users/joachimgoennheimer/Desktop/3. Semester/Betriebssysteme/Projects/linuxUSBDriver/practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joachimgoennheimer/Desktop/3. Semester/Betriebssysteme/Projects/linuxUSBDriver/practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joachimgoennheimer/Desktop/3. Semester/Betriebssysteme/Projects/linuxUSBDriver/practice/cmake-build-debug/CMakeFiles/practice.dir
